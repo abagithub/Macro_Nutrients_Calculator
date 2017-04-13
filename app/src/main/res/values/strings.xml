@@ -1,0 +1,72 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Macro Nutrients Calculator</string>
+    <string name="titleToast">YOUR DAILY MACROS : </string>
+    <string name="proteins">PROTEINS: <xliff:g id="proteins">%d</xliff:g></string>
+    <string name="fats">FATS: <xliff:g id="fats">%d</xliff:g></string>
+    <string name="carbohydrates">CARBOHYDRATES: <xliff:g id="carbs">%d</xliff:g></string>
+
+    <string name="header1">Main information</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <string name="quiz1question2">Age</string>
+    <string name="quiz1option2">years</string>
+    <string name="quiz1question3">Weight</string>
+    <string name="quiz1option3">kg</string>
+    <string name="quiz1question4">Height</string>
+    <string name="quiz1option4">cm</string>
+
+    <string name="header2">Favourite Food</string>
+
+    <string name="checkBox1">Cheese</string>
+    <string name="checkBox1Category">fat</string>
+
+    <string name="checkBox2">Potatoes</string>
+    <string name="checkBox2Category">carbohydrate</string>
+
+    <string name="checkBox3">Bacon</string>
+    <string name="checkBox3Category">fat</string>
+
+    <string name="checkBox4">Bread</string>
+    <string name="checkBox4Category">carbohydrate</string>
+
+    <string name="checkBox5">Nuts</string>
+    <string name="checkBox5Category">fat</string>
+
+    <string name="checkBox6">Fish</string>
+    <string name="checkBox6Category">fat</string>
+
+    <string name="checkBox7">Rice</string>
+    <string name="checkBox7Category">carbohydrate</string>
+
+    <string name="checkBox8">Eggs</string>
+    <string name="checkBox8Category">fat</string>
+
+    <string name="checkBox9">Cookies</string>
+    <string name="checkBox9Category">carbohydrate</string>
+
+    <string name="checkBox10">Pasta</string>
+    <string name="checkBox10Category">carbohydrate</string>
+
+    <string name="checkBox11">Yogurt</string>
+    <string name="checkBox11Category">fat</string>
+
+    <string name="checkBox12">Cereals</string>
+    <string name="checkBox12Category">carbohydrate</string>
+
+    <string name="header3">Daily Activities</string>
+    <string name="activity1">Sedentary</string>
+    <string name="activity2">Light Activity</string>
+    <string name="activity3">Active</string>
+    <string name="activity4">Very Active</string>
+
+
+    <string name="header4">Set Your Goal</string>
+    <string name="goal1">Lose Weight</string>
+    <string name="goal2">Maintain Weight</string>
+    <string name="goal3">Gain Weight</string>
+
+    <string name="submitButton">calculate</string>
+    <string name="resetButton">reset</string>
+</resources>

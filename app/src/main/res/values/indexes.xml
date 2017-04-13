@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="ageIndex">5</integer>
+    <integer name="weightIndex">10</integer>
+    <item name="heightIndex" format="float" type="string">6.5</item>
+    <integer name="maleIndex">5</integer>
+    <integer name="femaleIndex">161</integer>
+
+    <item name="activity1index" format="float" type="string">1.2</item>
+    <item name="activity2index" format="float" type="string">1.375</item>
+    <item name="activity3index" format="float" type="string">1.55</item>
+    <item name="activity4index" format="float" type="string">1.725</item>
+
+    <item name="goal1index" format="float" type="string">0.8</item>
+    <item name="goal3index" format="float" type="string">1.2</item>
+
+    <item name="proteinIndex" format="float" type="string">1</item>
+    <item name="poundToKg" format="float" type="string">0.45</item>
+
+    <item name="fatIndex1" format="float" type="string">0.2</item>
+    <item name="fatIndex2" format="float" type="string">0.25</item>
+    <item name="fatIndex3" format="float" type="string">0.3</item>
+
+    <integer name="proteinCaloriesPer1g">4</integer>
+    <integer name="fatCaloriesPer1g">4</integer>
+    <integer name="carbohydratesCaloriesPer1g">9</integer>
+
+</resources>
